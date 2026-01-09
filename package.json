@@ -1,0 +1,12 @@
+{
+  "name": "validation-public-github",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js || echo 'No runtime server (validation repo)'",
+    "lint": "echo 'no lint config'",
+    "format": "echo 'no formatter'",
+    "test": "echo 'no tests' && exit 0"
+  }
+}
