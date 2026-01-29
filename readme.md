@@ -9,6 +9,17 @@ Bears are extraordinary mammals characterized by their stocky legs, long snouts,
 
 > **Fun Fact:** Despite their heavy build and awkward gait, some bears can run at speeds of up to **35 mph (56 km/h)**. That is significantly faster than any human developer attempting to debug code on a Friday afternoon.
 
+## 🚀 Getting Started: Create a GitHub Account
+If you do not already have a GitHub account, you will need one to explore repositories like this one, star your favorite projects, and start your own software den.
+
+1. Open the signup page: https://github.com/signup
+2. Choose a username, enter your email address, and set a strong password.
+3. Complete any prompted verification steps during signup.
+
+After you create the account, do not skip these two important steps:
+- Verify your email address by clicking the verification link GitHub sends you. This helps ensure you can recover your account if you ever get locked out.
+- Enable two-factor authentication (2FA) in your GitHub settings for extra protection. Even apex predators appreciate good security.
+
 ## 🌲 Habitat & Logic
 The code is designed to thrive in a "forest" of directories:
 
